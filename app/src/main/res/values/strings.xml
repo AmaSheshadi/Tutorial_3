@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Calculator</string>
     <string name="button1">Ok</string>
     <string name="text1">Number 1</string>
     <string name="text2">Number 2</string>
@@ -7,4 +7,6 @@
     <string name="button3">-</string>
     <string name="button4">*</string>
     <string name="button5">/</string>
+    <string name="text">Sum</string>
+    <string name="toast">Opening Calculator</string>
 </resources>
